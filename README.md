@@ -15,8 +15,8 @@ Antes de executar este projeto, você deve ter as seguintes dependências instal
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-sincronizacao-certificados.git
-   cd projeto-sincronizacao-certificados
+   git clone https://github.com/charllyslima/sync-linkedin-alura
+   cd sync-linkedin-alura
    ```
 
 2. Copie o arquivo de exemplo `.env.example` para `.env` e atualize as credenciais com suas informações:
@@ -57,8 +57,6 @@ python main.py
 ```
 
 O projeto automatizará o processo de login no Alura e no LinkedIn, bem como a sincronização dos certificados. Certifique-se de verificar o arquivo `README.md` para obter informações adicionais e atualizações.
-
-## Contribuindo
 
 ## Contribuindo
 
