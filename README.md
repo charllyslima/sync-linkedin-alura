@@ -2,6 +2,10 @@
 
 Este projeto tem como objetivo ajudar a sincronizar os certificados obtidos na plataforma Alura e no LinkedIn para evitar duplicações e gerenciar seu portfólio de certificações de forma eficiente.
 
+
+![OIG_v2](https://github.com/charllyslima/sync-linkedin-alura/assets/96506145/6f4b8650-eeb9-4bc2-adcd-ab9be3508c83)
+
+
 ## Requisitos
 
 Antes de executar este projeto, você deve ter as seguintes dependências instaladas:
